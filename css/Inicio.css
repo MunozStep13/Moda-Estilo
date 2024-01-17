@@ -1,0 +1,73 @@
+.enlace1{
+    position: relative;
+    font-family: popppins;
+}
+.contenedor2{
+    position: absolute;
+    top: 30px;
+    right: 0px;
+    bottom: 0px;
+    float: right;
+    text-align:center;
+}
+
+.img1{
+    display: inline-block;
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.img2{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.button-box{
+    width: 300px;
+    margin: 30px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #e0e0e0;
+    border-radius: 30px;
+    font-family: Comic Sans Ms;
+    background: rgb(253, 254, 254);
+}
+.toggle-btn{
+    padding: 10px 22px;
+    cursor: pointer;
+    background: transparent;
+    border: 0px;
+    outline: none;
+    position: relative;
+}
+#elegir{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 150px;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 150, 136, 0.7), rgba(0, 0, 0, 0.7));
+    border-radius: 30px;
+    transition: 0.8s;
+}
+body{
+    background-color: rgb(255,255,255);
+}
+.padre{
+    background-color: rgba(245,245,245);
+    width: 101%;
+    height: 350px;
+    position: relative;
+}
+.caja1{
+    position: static;
+    display: inline-block;
+}
+.caja2{
+    position: absolute;
+    display: inline-block;
+    right: 0px;
+    bottom: 180px;
+}

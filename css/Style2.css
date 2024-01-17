@@ -1,0 +1,189 @@
+.enlace1{
+    position: relative;
+    font-family: popppins;
+}
+.contenedor2{
+    position: absolute;
+    top: 30px;
+    right: 0px;
+    bottom: 0px;
+    float: right;
+    text-align:center;
+}
+.button-box{
+    width: 300px;
+    margin: 30px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #e0e0e0;
+    border-radius: 30px;
+    font-family: Comic Sans Ms;
+    background: rgb(253, 254, 254);
+}
+.toggle-btn{
+    padding: 10px 22px;
+    cursor: pointer;
+    background: transparent;
+    border: 0px;
+    outline: none;
+    position: relative;
+}
+.fondoColor{
+    display: inline-block;
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 170px;
+    background-color: rgba(255,160,122);
+}
+.fondoColor1{
+    display: inline-block;
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 170px;
+    background-color: rgba(88, 32, 32);
+}
+.fondoColor2{
+    display: inline-block;
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 170px;
+    background-color: rgba(54, 232, 232);
+}
+.fondoColor3{
+    display: inline-block;
+    position: static;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 170px;
+    background-color: rgba(16, 104, 236);
+}
+.img2{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.body2 {
+  position: relative;
+  height: 100%;
+}
+
+.body2 {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 0%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -150px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
+
+.padre{
+    background-color: rgba(245,245,245);
+    width: 101%;
+    height: 350px;
+    position: relative;
+}
+.caja1{
+    position: static;
+    display: inline-block;
+}
+.caja2{
+    position: absolute;
+    display: inline-block;
+    right: 0px;
+    bottom: 180px;
+}
+.fon1{
+  width: 101%;
+  height: 400px;
+  position: relative;
+  display: inline-block;
+}
+.fon2{
+  width: 101%;
+  height: 400px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(255,160,122);
+}
+.fon3{
+  width: 101%;
+  height: 400px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(88, 32, 32);
+}
+.fon4{
+  width: 101%;
+  height: 400px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(54, 232, 232);
+}
+.fon5{
+  width: 101%;
+  height: 400px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(16, 104, 236);
+}
+.Precio{
+  width: 101%;
+  height: 140px;
+  position: relative;
+  display: inline-block;
+}
+.Precio1{
+  width: 101%;
+  height: 140px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(255,160,122);
+}
+.Precio2{
+  width: 101%;
+  height: 140px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(88, 32, 32);
+}
+.Precio3{
+  width: 101%;
+  height: 140px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(54, 232, 232);
+}
+.Precio4{
+  width: 101%;
+  height: 140px;
+  position: relative;
+  display: inline-block;
+  background-color: rgba(16, 104, 236);
+}
